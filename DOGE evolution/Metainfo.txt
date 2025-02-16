@@ -1,0 +1,11 @@
+Name of Quantlet: DOGE evolution
+
+Published in: nan
+
+Description: 
+
+Keywords: event study, R, python, ETH, SCM, Application, ar, car, herding
+
+Author: Enescu Răzvan-Cosmin, Gheorghe Ștefan-Sebastian
+
+Submitted: 09.02.2025
