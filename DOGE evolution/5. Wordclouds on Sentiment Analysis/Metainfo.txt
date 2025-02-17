@@ -1,0 +1,11 @@
+Name of Quantlet: Dogecoin and Speculative Bubbles: A Study Using LPPL and Sentiment Analysis
+
+Published in: 'Dogecoin-and-Speculative-Bubbles'
+
+Description: The wordclouds show the opinion on Reddit based on subreddits related to Donald Trump and Elon Musk
+
+Keywords: dogecoin, speculative, bubbles, lppl, sentiment analysis 
+
+Author: Enescu Răzvan-Cosmin, Gheorghe Ștefan-Sebastian
+
+Submitted: 16.02.2025
