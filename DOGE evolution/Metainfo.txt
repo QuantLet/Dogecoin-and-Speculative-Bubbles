@@ -2,7 +2,7 @@ Name of Quantlet: DOGE evolution
 
 Published in: 'Dogecoin-and-Speculative-Bubbles'
 
-Description: This study explores the link between Elon Musk, Donald Trump, and Dogecoin’s success
+Description: This study explores the link between Elon Musk, Donald Trump, and Dogecoin’s success.
 
 Keywords: event study, R, python, ETH, SCM, Application, ar, car, herding
 
