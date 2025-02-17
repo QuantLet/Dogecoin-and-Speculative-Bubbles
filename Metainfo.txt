@@ -2,9 +2,9 @@ Name of Quantlet: Dogecoin and Speculative Bubbles: A Study Using LPPL and Senti
 
 Published in: 'Dogecoin-and-Speculative-Bubbles'
 
-Description: This study explores the influence of news over DOGECOIN value.
+Description: This study explores the link between Elon Musk, Donald Trump, and Dogecoin’s success.
 
-Keywords: dogecoin, speculative, bubbles, lppl, sentimetn, analysis 
+Keywords: dogecoin, speculative, bubbles, lppl, sentiment analysis 
 
 Author: Enescu Răzvan-Cosmin, Gheorghe Ștefan-Sebastian
 
