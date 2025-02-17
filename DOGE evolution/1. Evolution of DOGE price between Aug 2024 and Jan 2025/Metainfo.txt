@@ -1,0 +1,11 @@
+Name of Quantlet: Dogecoin and Speculative Bubbles: A Study Using LPPL and Sentiment Analysis
+
+Published in: 'Dogecoin-and-Speculative-Bubbles'
+
+Description: Hourly prices of DOGECOIN between Aug 2024 and Jan 2025
+
+Keywords: dogecoin, speculative, bubbles, lppl, sentiment analysis 
+
+Author: Enescu Răzvan-Cosmin, Gheorghe Ștefan-Sebastian
+
+Submitted: 16.02.2025
